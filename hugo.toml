@@ -1,10 +1,10 @@
 baseURL = 'https://didactronusb.github.io/'
 languageCode = 'es'
 title = 'Didactron USB'
-subtitle = 'Sala de ciencias'
+subtitle = 'Sala interactiva de ciencias'
 theme = 'ananke'
 
-resourceDir = "../resources"
+resourceDir = "./resources"
 
 SectionPagesMenu = "main"
 defaultContentLanguage = 'es'
